@@ -1,0 +1,12 @@
+{
+  "name": "react-native-styles",
+  "displayName": "react-native-styles",
+  "expo": {
+    "name": "react-native-styles",
+    "slug": "react-native-styles",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
